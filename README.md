@@ -96,7 +96,7 @@ The system follows a **Three-Tier Architecture**:
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/sunil-polupalli/saas-platform.git](https://github.com/sunil-polupalli/saas-platform.git)
+git clone [https://github.com/boomika747/saas-platform.git](https://github.com/boomika747/saas-platform.git)
 cd saas-platform
 
 ```
